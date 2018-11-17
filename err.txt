@@ -1,0 +1,11 @@
+Encountered a non-CSV file.
+Encountered a non-CSV file.
+Encountered a non-CSV file.
+Encountered a non-CSV file.
+Encountered a non-CSV file.
+CSV is empty.
+Encountered a non-CSV file.
+CSV contains an invalid column in header.
+CSV contains an invalid column in header.
+Encountered a non-CSV file.
+File found has already been sorted.
